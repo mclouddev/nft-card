@@ -1,3 +1,3 @@
 # nft-card
 
-Practice css stylign with a NFT card with my personal artwork.
+Practice css styling with a NFT card with my personal artwork.
